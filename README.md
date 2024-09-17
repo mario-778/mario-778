@@ -1,4 +1,4 @@
 - Hi, I’m Mario Rodriguez
-- I’m interested in the applications of programming languages such as R, Phyton, Julia, Matplot, and Stata for economic/econometric data analysis and visualization 
+- I’m interested in the applications of programming languages such as R, Phyton, Julia, MATLAB, and Stata for economic/econometric data analysis and visualization 
 -  I’m currently a 4th year Economics student at the University of Alberta
 -  Research Intrests: Financial Economics, Econometrics, Environmental Economics, Macroeconomics
